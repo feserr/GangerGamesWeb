@@ -9,7 +9,7 @@ paginate = "10"
     bio = "Computer science researcher by day, game programmer by night."
     avatar = "img/avatar.png"
 
-Params]
+[Params]
     subtitle = "Programming and game development things" # Subtitle of your site. Used in site header
     description = "Elías Serrano personal blog about programming and game development" # Description of your site. Used in meta description
     opengraph = true # Enable OpenGraph if true
