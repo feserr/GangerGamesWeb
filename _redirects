@@ -2,4 +2,4 @@
 https://gangergames.netlify.com/* https://www.gangergames.com/:splat 301!
 
 # These extra rules are required because HTTPS is not forced
-http://gangergames.netlify.com/* https://www.gangergames.com/:splat 301!
+#http://gangergames.netlify.com/* https://www.gangergames.com/:splat 301!
