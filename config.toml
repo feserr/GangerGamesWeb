@@ -1,4 +1,4 @@
-baseURL = "http://www.gangergames.com/"
+baseURL = "https://www.gangergames.com/"
 languageCode = "en-us"
 title = "Ganger Games"
 theme = "mainroad"
